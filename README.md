@@ -6,7 +6,7 @@ Hi, this is a Single Page Simple Weather App for Mobiles. I create this App usin
 
 ## App Demo
 
-<img align="right"  width="800" height="600" src="https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/WeatherAppGif.gif">
+<img align="center"  width="800" height="600" src="https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/WeatherAppGif.gif">
 
 ## Features
 
