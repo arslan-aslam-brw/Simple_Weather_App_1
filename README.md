@@ -18,7 +18,7 @@ Hi, this is a Single Page Simple Weather App for Mobiles. I create this App usin
 
 ## Installation
 
-Just Download and Install by Clicking here
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/Simple_Weather_App_1/raw/refs/heads/master/assets/Weather%20App.apk" >Here</a>
 
   
 ## Skills
