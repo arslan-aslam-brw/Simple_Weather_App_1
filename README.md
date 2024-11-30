@@ -27,5 +27,5 @@ Flutter, Dart, Https Api, Basic Programming
 
 ## Support
 
-For support, email arslang5588@gmail.com or join me on linkedin.
+For support, email arslang5588@gmail.com or join me on <a href = "https://www.linkedin.com/in/arslanaslam77/" >Linkedin</a>.
 
