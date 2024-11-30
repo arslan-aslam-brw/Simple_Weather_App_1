@@ -5,7 +5,7 @@ Hi, this is a Single Page Simple Weather App for Mobiles. I create this App usin
 
 
 
-
+<br><br>
 ## App Demo
 
 Insert gif or link to demo
@@ -18,17 +18,17 @@ Insert gif or link to demo
 - Refresh Page
 - Cross platform
 
-
+<br><br>
 ## Installation
 
 Just Download and Install by Clicking here
 
 
-    
-## 🛠 Skills
+<br><br>    
+## Skills
 Flutter, Dart, Https Api, Basic Programming 
 
-
+<br><br>
 ## Support
 
 For support, email arslang5588@gmail.com or join me on linkedin.
