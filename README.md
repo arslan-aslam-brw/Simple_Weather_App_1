@@ -6,7 +6,7 @@ Hi, this is a Single Page Simple Weather App for Mobiles. I create this App usin
 
 ## App Demo
 
-![logo](https://github.com/arslanaslam5588/arslanaslam5588/blob/master/bnr.gif)
+![logo](https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/Programmer.mp4)
 
 ## Features
 
