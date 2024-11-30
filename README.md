@@ -10,7 +10,7 @@ Hi, this is a Single Page Simple Weather App for Mobiles. I create this App usin
 
 Insert gif or link to demo
 
-<br><br><br><br><br>
+<br><br>
 ## Features
 
 - Light/dark mode
